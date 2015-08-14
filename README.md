@@ -25,3 +25,4 @@ gulp.task('js', function () { // could be any other tech
 
 - Easy to split stream to multiple technologies: js, css and etc.
 - Easier to automate making documentation about the project (list of blocks, their mods and etc).
+- Incremental Builds: https://github.com/gulpjs/gulp#incremental-builds
